@@ -19,8 +19,8 @@ to load data into desktop GIS software such as QGIS.
 Start the VM
 ------------
 
-:: 
-    git clone https://github.com/egoddard/mempy-drf-gis.git`
+Clone the repository and start the vagrant VM:: 
+    git clone https://github.com/egoddard/mempy-drf-gis.git
     cd mempy-drf-gis
     vagrant up
 
