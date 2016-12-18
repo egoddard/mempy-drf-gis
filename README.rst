@@ -20,6 +20,7 @@ Start the VM
 ------------
 
 Clone the repository and start the vagrant VM:: 
+
     git clone https://github.com/egoddard/mempy-drf-gis.git
     cd mempy-drf-gis
     vagrant up
